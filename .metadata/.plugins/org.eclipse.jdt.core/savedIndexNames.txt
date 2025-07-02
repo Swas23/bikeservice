@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\2397747\Documents\project\bike-service-system\.metadata\.plugins\org.eclipse.jdt.core
